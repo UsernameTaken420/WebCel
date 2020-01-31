@@ -1,0 +1,65 @@
+body {
+  background-image: url(fondo.png);
+  background-color: #535d6e;
+}
+
+h1 {
+  text-align: center;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+h2 {
+  text-align: center;
+}
+
+.sidebar {
+  font-family: Consolas;
+  margin: 1%;
+  float: left;
+  height: 94%;
+  width: 20%;
+  background-color: #FFFDD0;
+  border: solid;
+  border-radius: 15px;
+}
+
+.maintext {
+  margin-left:auto;
+  margin-right:auto;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  float: left;
+  width: auto;
+  max-width: 75%;
+  padding: 10px;
+  background-color: #FFFDD0;
+  border: solid;
+  border-radius: 15px;
+  overflow:auto;
+}
+
+p {
+  margin-left: 8px;
+}
+
+table {
+  margin-left:auto;
+  margin-right:auto;
+  margin-top: 2px;
+}
+
+.filaPAR {
+  background-color: #FFFB9D;
+  text-align: center;
+}
+
+.filaIMP {
+  background-color: coral;
+  text-align: center;
+}
+
+.tablaHeader {
+  background-color: #FFFB9D;
+  text-align: center;
+}
